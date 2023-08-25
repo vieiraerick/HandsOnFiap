@@ -1,0 +1,17 @@
+C:\Users\magai\OneDrive\Documentos\Cursos\Arquitetura de Sistemas dotnet com Azure - Fiap\Aula Inaugural\HandsOnAulaInaugural\HandsOnAulaInaugural\bin\Debug\net6.0\HandsOnAulaInaugural.exe
+C:\Users\magai\OneDrive\Documentos\Cursos\Arquitetura de Sistemas dotnet com Azure - Fiap\Aula Inaugural\HandsOnAulaInaugural\HandsOnAulaInaugural\bin\Debug\net6.0\HandsOnAulaInaugural.deps.json
+C:\Users\magai\OneDrive\Documentos\Cursos\Arquitetura de Sistemas dotnet com Azure - Fiap\Aula Inaugural\HandsOnAulaInaugural\HandsOnAulaInaugural\bin\Debug\net6.0\HandsOnAulaInaugural.runtimeconfig.json
+C:\Users\magai\OneDrive\Documentos\Cursos\Arquitetura de Sistemas dotnet com Azure - Fiap\Aula Inaugural\HandsOnAulaInaugural\HandsOnAulaInaugural\bin\Debug\net6.0\HandsOnAulaInaugural.dll
+C:\Users\magai\OneDrive\Documentos\Cursos\Arquitetura de Sistemas dotnet com Azure - Fiap\Aula Inaugural\HandsOnAulaInaugural\HandsOnAulaInaugural\bin\Debug\net6.0\HandsOnAulaInaugural.pdb
+C:\Users\magai\OneDrive\Documentos\Cursos\Arquitetura de Sistemas dotnet com Azure - Fiap\Aula Inaugural\HandsOnAulaInaugural\HandsOnAulaInaugural\obj\Debug\net6.0\HandsOnAulaInaugural.csproj.AssemblyReference.cache
+C:\Users\magai\OneDrive\Documentos\Cursos\Arquitetura de Sistemas dotnet com Azure - Fiap\Aula Inaugural\HandsOnAulaInaugural\HandsOnAulaInaugural\obj\Debug\net6.0\HandsOnAulaInaugural.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\magai\OneDrive\Documentos\Cursos\Arquitetura de Sistemas dotnet com Azure - Fiap\Aula Inaugural\HandsOnAulaInaugural\HandsOnAulaInaugural\obj\Debug\net6.0\HandsOnAulaInaugural.AssemblyInfoInputs.cache
+C:\Users\magai\OneDrive\Documentos\Cursos\Arquitetura de Sistemas dotnet com Azure - Fiap\Aula Inaugural\HandsOnAulaInaugural\HandsOnAulaInaugural\obj\Debug\net6.0\HandsOnAulaInaugural.AssemblyInfo.cs
+C:\Users\magai\OneDrive\Documentos\Cursos\Arquitetura de Sistemas dotnet com Azure - Fiap\Aula Inaugural\HandsOnAulaInaugural\HandsOnAulaInaugural\obj\Debug\net6.0\HandsOnAulaInaugural.csproj.CoreCompileInputs.cache
+C:\Users\magai\OneDrive\Documentos\Cursos\Arquitetura de Sistemas dotnet com Azure - Fiap\Aula Inaugural\HandsOnAulaInaugural\HandsOnAulaInaugural\obj\Debug\net6.0\HandsOnAulaInaugural.dll
+C:\Users\magai\OneDrive\Documentos\Cursos\Arquitetura de Sistemas dotnet com Azure - Fiap\Aula Inaugural\HandsOnAulaInaugural\HandsOnAulaInaugural\obj\Debug\net6.0\refint\HandsOnAulaInaugural.dll
+C:\Users\magai\OneDrive\Documentos\Cursos\Arquitetura de Sistemas dotnet com Azure - Fiap\Aula Inaugural\HandsOnAulaInaugural\HandsOnAulaInaugural\obj\Debug\net6.0\HandsOnAulaInaugural.pdb
+C:\Users\magai\OneDrive\Documentos\Cursos\Arquitetura de Sistemas dotnet com Azure - Fiap\Aula Inaugural\HandsOnAulaInaugural\HandsOnAulaInaugural\obj\Debug\net6.0\HandsOnAulaInaugural.genruntimeconfig.cache
+C:\Users\magai\OneDrive\Documentos\Cursos\Arquitetura de Sistemas dotnet com Azure - Fiap\Aula Inaugural\HandsOnAulaInaugural\HandsOnAulaInaugural\obj\Debug\net6.0\ref\HandsOnAulaInaugural.dll
+C:\Users\magai\OneDrive\Documentos\Cursos\Arquitetura de Sistemas dotnet com Azure - Fiap\Aula Inaugural\HandsOnAulaInaugural\HandsOnAulaInaugural\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\magai\OneDrive\Documentos\Cursos\Arquitetura de Sistemas dotnet com Azure - Fiap\Aula Inaugural\HandsOnAulaInaugural\HandsOnAulaInaugural\obj\Debug\net6.0\HandsOnAulaInaugural.csproj.CopyComplete
